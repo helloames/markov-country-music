@@ -2,7 +2,7 @@
 
 Final Project from CS 232: Discrete Mathematics & Proofs, Spring 2025 at Duke.
 
-Sources & Acknowledgements:
+**Sources & Acknowledgements:**
 
 Salih Boutadghart. “Music Genre Classification using Hidden Markov Models.” Good Audience Blog, March 3, 2019.
 
